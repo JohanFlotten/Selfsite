@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: boarder-box;
+}
+body {
+    background-color: rgb(48, 48, 57);
+    color: rgb(226, 226, 226);
+}
+
+main {
+    height: 79vh;
+    overflow-y: scroll;
+}
+
+header {
+    height: 100px;
+    background-color: rgb(23, 24, 24);
+}
+
+#hTxt {
+    font-size: 80px;
+    color: rgb(103, 103, 103);
+    text-align: center;
+}
+
+.info {
+    margin-bottom: 10px;
+    margin-left: 20px;
+    font-size: 40px;
+}
+
+p {
+    margin-left: 20px;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+#mycat {
+    width: 300px;
+    margin-left: 70px;
+}
+
+footer {
+    background-color: rgb(244, 229, 229);
+    height: 100px;
+}
+
+.footerBox {
+    color: rgb(103, 103, 103);
+    background-color: rgb(23, 24, 24);
+    min-width: 10px;
+    height: 100px;
+    margin: 0px;
+    text-align: center;
+}
